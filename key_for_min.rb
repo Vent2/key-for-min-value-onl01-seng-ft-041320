@@ -1,6 +1,6 @@
 name_hash = {
-  :ace => 27, 
-  :beta => 2, 
+  :ace => 27,
+  :beta => 2,
   :charlie => 33
 }# prereqs: iterators, hashes, conditional logic
 # Given a hash with numeric values, return the key for the smallest value

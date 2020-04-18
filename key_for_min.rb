@@ -9,8 +9,8 @@ def key_for_min_value(name_hash)
   name_hash.collect do |word, num|
     if num == 0
       return num
-    else
-      return num.first
+    else num.first
+      num
     end
   end
 end

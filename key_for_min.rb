@@ -10,7 +10,7 @@ def key_for_min_value(name_hash)
     if num == 0
       return num
     elsif num <= 10
-      word[0]
+      word
     end
   end
 end
